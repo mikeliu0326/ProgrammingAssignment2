@@ -1,5 +1,5 @@
-## The purpose of the two functions below is to allow the user to cache the inverse of a matrix.
-#   makeCacheMatrix 
+## The purpose of the two functions below is to allow the user to calculate the inverse of a matrix, and store the result.
+#   This eliminates the need to repeat expensive computations. 
 
 # makeCacheMatrix: create a special "matrix" object that can cache its inverse
 # Has the methods set, get, setinv, getinv
